@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name			Remove nullrefer from URL
-// @namespace		jaybrown
+// @namespace		JayBrown
 // @version			1.0.1
 // @description		Remove nullrefer from URL
 // @author			Joss Brown
